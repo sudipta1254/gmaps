@@ -1,0 +1,19 @@
+body {
+   color: white;
+   background: #212121;
+}
+input {
+   color: white;
+   background: black;
+   margin: 0 20px;
+}
+button {
+   width: 60px;
+   height: 30px;
+}
+iframe {
+   width: 99%;
+   margin: 30px auto 0;
+   max-width: 1000px;
+}
+
