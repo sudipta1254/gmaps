@@ -1,9 +1,9 @@
 body {
-   color: red;
+   color: white;
    background: #212121;
 }
 input {
-   color: white;
+   color: teal;
    background: black;
    margin: 0 20px;
 }
